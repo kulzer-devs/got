@@ -1,2 +1,2 @@
 # got
-A very capable GUI for Git.
+A simple GUI for managing your ever-more-complex Git repositories
